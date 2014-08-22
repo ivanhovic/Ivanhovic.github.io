@@ -150,6 +150,11 @@ a:after {
 	background-color: #f2f2f2;
 }
 
+#w2{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
 
 #footer {
 	background-color: #2f2f2f;
@@ -242,4 +247,13 @@ bt {
 .glyphicon {
 	font-size: 40px;
 	color: #1abc9c;
+}
+
+.navbar-collapse .glyphicon {
+	font-size: 20px;
+	color: #ffffff;
+}
+
+.nav > li > a {
+	display: inline-block;
 }

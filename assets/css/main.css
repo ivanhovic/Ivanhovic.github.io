@@ -158,8 +158,7 @@ a:after {
 
 #footer {
 	background-color: #2f2f2f;
-	padding-top: 50px;
-	padding-bottom: 50px; 
+	padding-top: 40px; 
 }
 
 #footer p {
@@ -256,4 +255,19 @@ bt {
 
 .nav > li > a {
 	display: inline-block;
+}
+
+.links{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.links a{
+	color: #fff;
+	padding: 5px;
+}
+
+.links a:hover{
+	color: #E86356;
 }
